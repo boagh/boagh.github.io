@@ -85,7 +85,7 @@ author:
   bio              : "Pythonista 🐍/ Data science and NLP enthusiast/ Electrical Engineer by education"
   location         : "Iran / Tabriz"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "b.ostadaghaee@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/16037488/behrooz-ostadaghaee"
   steam            :
   tumblr           :
   twitter          : "bostadaghaee"
