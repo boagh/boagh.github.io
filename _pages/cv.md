@@ -34,15 +34,15 @@ Skills
 * Frameworks:
     * Keras, TensorFlow, Sklearn, PyTorch
 * Tools:
-    * Web Scraping/Crawling 
+    * Web Scraping/Crawling: 
       * Selenium, Beautiful Soup
-    * Data Visualization 
+    * Data Visualization: 
       * Matplotlib, Seaborn
-    * Other
+    * Other:
       * Padas, NumPy, GitHub, LaTex, CodeVisionAVR
-* Web Development :
+* Web Development:
     * HTML, CSS
-* Operation Systems :
+* Operation Systems:
     * windows, Linux
    
    
