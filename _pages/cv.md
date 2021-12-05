@@ -55,7 +55,7 @@ Certificates
 * Python Fundamentals Track ([DataCamp](https://www.datacamp.com/profile/buaqai))
 * Python Data Structures ([Coursera](https://www.coursera.org/account/accomplishments/verify/J5S2JRWAYME2))
 * Regular Expressions in Python ([DataCamp](https://www.datacamp.com/profile/buaqai))
-* Programming for Everybody ([Coursera])(https://www.coursera.org/account/accomplishments/verify/FK3GTWV5K9XD))
+* Programming for Everybody ([Coursera](https://www.coursera.org/account/accomplishments/verify/FK3GTWV5K9XD))
 
 Notable courses
 ======
