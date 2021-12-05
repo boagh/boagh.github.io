@@ -48,14 +48,14 @@ Skills
    
 Certificates
 ======    
-* Natural Language Processing Course ([Hamrah Academy/Amirkabir University])(https://storage.hamrah.academy/certificates/cert_881243249273456b977347c26ca2de_nlp-course-3S8SR1GV_en.png)
-* NLP - Natural Language Processing with Python ([Udemy])(https://www.udemy.com/certificate/UC-2c5e9f8b-fbd0-4e92-a2f6-11c9fb923053/)
-* Supervised Machine Learning ([DataCamp])(https://www.datacamp.com/profile/buaqai)
-* Using Python to Access Web Data ([Coursera])(https://www.coursera.org/account/accomplishments/verify/YX69CDZ5F42W)
-* Python Fundamentals Track ([DataCamp])(https://www.datacamp.com/profile/buaqai)
-* Python Data Structures ([Coursera])(https://www.coursera.org/account/accomplishments/verify/J5S2JRWAYME2)
-* Regular Expressions in Python ([DataCamp])(https://www.datacamp.com/profile/buaqai)
-* Programming for Everybody ([Coursera])(https://www.coursera.org/account/accomplishments/verify/FK3GTWV5K9XD)
+* Natural Language Processing Course ([Hamrah Academy/Amirkabir University](https://storage.hamrah.academy/certificates/cert_881243249273456b977347c26ca2de_nlp-course-3S8SR1GV_en.png))
+* NLP - Natural Language Processing with Python ([Udemy](https://www.udemy.com/certificate/UC-2c5e9f8b-fbd0-4e92-a2f6-11c9fb923053/))
+* Supervised Machine Learning ([DataCamp](https://www.datacamp.com/profile/buaqai))
+* Using Python to Access Web Data ([Coursera](https://www.coursera.org/account/accomplishments/verify/YX69CDZ5F42W))
+* Python Fundamentals Track ([DataCamp](https://www.datacamp.com/profile/buaqai))
+* Python Data Structures ([Coursera](https://www.coursera.org/account/accomplishments/verify/J5S2JRWAYME2))
+* Regular Expressions in Python ([DataCamp](https://www.datacamp.com/profile/buaqai))
+* Programming for Everybody ([Coursera])(https://www.coursera.org/account/accomplishments/verify/FK3GTWV5K9XD))
 
 Notable courses
 ======
