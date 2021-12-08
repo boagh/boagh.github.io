@@ -15,7 +15,7 @@ Research Interests
 * Deep Learning
 * Machine Learning
 * Linguistics
-* Neuroscience
+* Computational Neuroscience
 
 Education
 ======
