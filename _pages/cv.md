@@ -29,7 +29,7 @@ Education
 
 Awards & Accomplishments
 ======
-* [3rd Place on the **Stock Market Prediction Challenge** (6th Amirkabir Artificial Intelligence Competition - AAIC) - May 2022](https://drive.google.com/file/d/1g1r_u8TzCwgw3r7Ysb2FbI0XSEIINObh/view?usp=sharing)
+* [3rd Place on the **Stock Market Prediction Challenge** (6th Amirkabir Artificial Intelligence Competition-AAIC) - May2022](https://raw.githubusercontent.com/boagh/boagh.github.io/master/images/IMG_20220605_212638~3.jpg)
       
 Skills
 ======
