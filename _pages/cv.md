@@ -39,7 +39,7 @@ Skills
     * Data Visualization: 
       * Matplotlib, Seaborn
     * Other:
-      * Padas, NumPy, GitHub, LaTex, CodeVisionAVR
+      * Pandas, NumPy, GitHub, LaTex, CodeVisionAVR
 * Web Development:
     * HTML, CSS
 * Operation Systems:
