@@ -26,10 +26,6 @@ Education
 * Talegani (Mansour) Highschool, Tabriz, Iran
    * High School Diploma 2006-2010
       * Majored in Mathematics & Physics
-
-Awards & Accomplishments
-======
-* [3rd Place on the **Stock Market Prediction Challenge** (6th AmirkabirArtificialIntelligenceCompetition-AAIC)-May2022](https://raw.githubusercontent.com/boagh/boagh.github.io/master/images/IMG_20220605_212638~3.jpg)
       
 Skills
 ======
@@ -48,7 +44,10 @@ Skills
     * HTML, CSS
 * Operation Systems:
     * windows, Linux
-   
+
+Awards & Accomplishments
+======
+* [3rd Place on the **Stock Market Prediction Challenge** (6th AmirkabirArtificialIntelligenceCompetition-AAIC)-May2022](https://raw.githubusercontent.com/boagh/boagh.github.io/master/images/IMG_20220605_212638~3.jpg)   
    
 Certificates
 ======    
