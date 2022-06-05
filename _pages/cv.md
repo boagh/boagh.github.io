@@ -27,9 +27,9 @@ Education
    * High School Diploma 2006-2010
       * Majored in Mathematics & Physics
 
-Accomplishments
+Awards & Accomplishments
 ======
-* ([3rd Place on the Stock Market Prediction Challenge (6th Amirkabir Artificial Intelligence Competition - AAIC) - May 2022](IMG_20220605_212638~3.jpg))
+* [3rd Place on the **Stock Market Prediction Challenge** (6th Amirkabir Artificial Intelligence Competition - AAIC) - May 2022](IMG_20220605_212638~3.jpg)
       
 Skills
 ======
