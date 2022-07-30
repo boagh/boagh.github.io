@@ -30,7 +30,7 @@ Education
 Skills
 ======
 * Programming :
-    * Python, MATLAB, Octave, C/C++
+    * Python, JavaScript, MATLAB, Octave, C/C++
 * Frameworks:
     * Keras, TensorFlow, Sklearn, PyTorch
 * Tools:
